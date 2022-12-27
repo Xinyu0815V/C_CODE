@@ -1,0 +1,14 @@
+﻿  demo_12_27.c
+E:\C_2022\Project08\demo_12_27.c(105,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C_2022\Project08\demo_12_27.c(105,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C_2022\Project08\demo_12_27.c(106,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C_2022\Project08\demo_12_27.c(106,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C_2022\Project08\demo_12_27.c(107,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C_2022\Project08\demo_12_27.c(107,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C_2022\Project08\demo_12_27.c(108,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\C_2022\Project08\demo_12_27.c(108,9): message : 请考虑在格式字符串中使用“%zd”
+E:\C_2022\Project08\demo_12_27.c(109,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\C_2022\Project08\demo_12_27.c(109,9): message : 请考虑在格式字符串中使用“%lld”
+E:\C_2022\Project08\demo_12_27.c(109,9): message : 请考虑在格式字符串中使用“%Id”
+E:\C_2022\Project08\demo_12_27.c(109,9): message : 请考虑在格式字符串中使用“%I64d”
+  Project08.vcxproj -> E:\C_2022\Project08\x64\Debug\Project08.exe
